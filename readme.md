@@ -1,8 +1,9 @@
-# Belajar Pemrograman Python#
+# Belajar Pemrograman Python #
 
 ![python](https://python.rs/pylogo.png)
 > # PYTHON 
->> Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode.
+>> ## Python Adalah Bahasa Pemrograman Interpretatif Multiguna Dengan Filosofi Perancangan Yang Berfokus Pada Tingkat Keterbacaan Kode.
+>
 >
 >
 > >Didesain oleh: Guido van Rossum
