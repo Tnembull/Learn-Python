@@ -1,4 +1,4 @@
-# Dasar Dasar Pemrograman Python #
+# Belajar Pemrograman Python#
 
 ![python](https://python.rs/pylogo.png)
 > # PYTHON 
