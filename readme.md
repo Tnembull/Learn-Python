@@ -1,7 +1,7 @@
 # Belajar Pemrograman Python #
 
-![python](https://python.rs/pylogo.png)
-> # PYTHON 
+
+>  # PYTHON ![python](https://python.rs/pylogo.png)
 >> ## Python Adalah Bahasa Pemrograman Interpretatif Multiguna Dengan Filosofi Perancangan Yang Berfokus Pada Tingkat Keterbacaan Kode.
 >
 >
